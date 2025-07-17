@@ -4,7 +4,7 @@ Submitted by: **Aldo Ruiz Parra**
 
 **Tumbler Feed** is an app that obtains data from Tumbler and displays it on a TableView.
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -25,9 +25,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Loom:https://www.loom.com/share/34719ccb23494048bf6f9c57981ed0eb?sid=94e9f00a-4d1e-422d-b186-d58c8b805cf7
 
 ## Notes
 
