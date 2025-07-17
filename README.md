@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
-Loom:https://www.loom.com/share/34719ccb23494048bf6f9c57981ed0eb?sid=94e9f00a-4d1e-422d-b186-d58c8b805cf7
+Loom: https://www.loom.com/share/628daa7158854121a7992b1fb67d5824?sid=f555f957-6e12-457d-9237-f7f938a08299
 
 ## Notes
 
